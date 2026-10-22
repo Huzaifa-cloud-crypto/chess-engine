@@ -1,0 +1,6 @@
+{
+  "name": "Chess Engine & Piece Interaction Network",
+  "description": "Vue 3 chess engine frontend featuring real-time piece interaction network analysis, depth-based telemetry metrics, and a dedicated landing homepage by NED University SE Department.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
